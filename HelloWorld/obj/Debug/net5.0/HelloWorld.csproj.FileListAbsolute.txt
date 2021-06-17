@@ -1,0 +1,16 @@
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

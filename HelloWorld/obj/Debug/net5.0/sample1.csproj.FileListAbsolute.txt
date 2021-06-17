@@ -1,0 +1,16 @@
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\bin\Debug\net5.0\sample1.exe
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\bin\Debug\net5.0\sample1.deps.json
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\bin\Debug\net5.0\sample1.runtimeconfig.json
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\bin\Debug\net5.0\sample1.runtimeconfig.dev.json
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\bin\Debug\net5.0\sample1.dll
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\bin\Debug\net5.0\ref\sample1.dll
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\bin\Debug\net5.0\sample1.pdb
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\obj\Debug\net5.0\sample1.csprojAssemblyReference.cache
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\obj\Debug\net5.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\obj\Debug\net5.0\sample1.AssemblyInfoInputs.cache
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\obj\Debug\net5.0\sample1.AssemblyInfo.cs
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\obj\Debug\net5.0\sample1.csproj.CoreCompileInputs.cache
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\obj\Debug\net5.0\sample1.dll
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\obj\Debug\net5.0\ref\sample1.dll
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\obj\Debug\net5.0\sample1.pdb
+C:\Users\Trevis\dev\dotnet\.NET-Hello-World\sample1\obj\Debug\net5.0\sample1.genruntimeconfig.cache
